@@ -7,9 +7,7 @@ void setup()
 {
   lcd.init();
 
-
 }
-
 
 void loop()
 {
